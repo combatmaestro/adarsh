@@ -231,8 +231,8 @@ footer{
 @media only screen and (max-width:770px){
     header{
         background:url('../images/bg1.jpeg');
-        background-size: cover;
-        height: 40vh;
+        background-size: contain;
+        
     }
     .menu a{display: none;}
 
