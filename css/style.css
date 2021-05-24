@@ -27,7 +27,7 @@ nav .logo{
   font-weight: 600;
 }
 nav .logo span{
-    color: #e74c3c;
+    color: black;
 }
 nav ul{
   display: flex;
@@ -87,6 +87,9 @@ input[type="checkbox"]{
   #click:checked ~ ul{
     left: 0;
   }
+  nav .logo{
+      font-size: 1.125rem;
+  }
   nav ul li{
     width: 100%;
     margin: 40px 0;
@@ -116,7 +119,7 @@ header{
     background-size: 100% ,cover;
     background-position: right,center;
     background-repeat: no-repeat,no-repeat ;
-    clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 0 0);
+    clip-path: inset(0 0 0 0);
     background-attachment: fixed;
 }
 
