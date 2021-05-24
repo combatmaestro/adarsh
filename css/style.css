@@ -36,7 +36,7 @@ nav ul{
 }
 nav ul li{
     display: inline-block;
-    line height: 80px;
+    line-height: 80px;
     margin:0 5px;
 }
 label.logo span{
