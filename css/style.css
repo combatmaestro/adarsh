@@ -254,6 +254,7 @@ footer{
     }
     .about-right-col{
         flex-basis:100%;
+        padding: auto;
     }
     .skills-left-col{
         flex-basis: 100%;
