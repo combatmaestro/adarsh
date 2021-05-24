@@ -267,9 +267,9 @@ footer{
         
         
     }
-    .menu a{display: none;}
+    /* .menu a{display: none;} */
 
-    .logo{
+    label.logo{
         padding-left: 50px;
         
     }
