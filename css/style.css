@@ -23,7 +23,7 @@ label.logo{
     color: white;
      font-size: 2.125rem;
      line-height: 80px;
-
+    justify-content: space-around;
     padding:0 80px;
     letter-spacing: 5px;
     font-weight: bold;
@@ -40,7 +40,7 @@ nav ul li{
     margin:0 5px;
 }
 label.logo span{
-    color:#e74c3c;
+    color:black;
 }
 
 nav ul li a{
